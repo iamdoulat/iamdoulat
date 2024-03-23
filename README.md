@@ -2,10 +2,10 @@
 <div align="center">
  
  
-<img width="100%" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="cover" />
+<img width="100%" src="https://raw.githubusercontent.com/iamdoulat/iamdoulat/main/banner.jpg" alt="cover" />
 </div>
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=shakilahmedatik&label=Profile%20views&color=0e75b6&style=flat" alt="shakilahmedatik" /> </span> 
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Atik</h1> 
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=iamdoulat&label=Profile%20views&color=0e75b6&style=flat" alt="iamdoulat" /> </span> 
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/iamdoulat/iamdoulat/main/hi.gif" width="50px" height="50px">, I'm Doulat</h1> 
 <!--
 **iamdoulat/iamdoulat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
