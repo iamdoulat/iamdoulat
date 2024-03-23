@@ -40,7 +40,7 @@
 <p><a href="https://www.buymeacoffee.com/iamdoulat"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="atik" /></a></p>
 
 
-![Waves]([https://raw.githubusercontent.com/iamdoulat/iamdoulat/main/wave.svg])
+![Waves](https://raw.githubusercontent.com/iamdoulat/iamdoulat/main/wave.svg)
 <!--
 
 **iamdoulat/iamdoulat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
